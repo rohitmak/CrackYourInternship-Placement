@@ -3,7 +3,7 @@ using namespace std;
 
 class Solution
 {
-public:
+public:  
     void sortColors(vector<int> &nums)
     {
         // DNF ALGORITHM
